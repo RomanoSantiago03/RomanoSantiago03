@@ -44,4 +44,4 @@ Aprendí n8n desde cero y tengo dos flujos funcionando: un bot de Telegram con e
 
 ---
 
-📫 **Contacto:** [romanosantiagonicolas@gmail.com](mailto:romanosantiagonicolas@gmail.com)
+📫 **Contacto:** [romanosantiagonicolas@gmail.com](mailto:romanosantiagonicolas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/santiagoromano-dev) · [Portfolio](https://romanodev.vercel.app)
